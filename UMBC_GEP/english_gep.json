@@ -1,0 +1,19 @@
+{
+  "category": "English Composition",
+  "code": "EN",
+  "description": "General Education English Composition Requirement",
+  "courses": [
+    {
+      "course_id": "ENGL100",
+      "department": "ENGL",
+      "number": 100,
+      "title": "Composition"
+    },
+    {
+      "course_id": "ENGL110",
+      "department": "ENGL",
+      "number": 110,
+      "title": "Composition for ESL Students"
+    }
+  ]
+}

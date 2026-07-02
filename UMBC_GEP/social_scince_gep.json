@@ -1,0 +1,626 @@
+{
+  "category": "Social Science",
+  "code": "SS",
+  "description": "General Education Social Science Requirement",
+  "courses": [
+    {
+      "course_id": "AFST206",
+      "department": "AFST",
+      "number": 206,
+      "title": "Introduction to African-American History: A Survey"
+    },
+    {
+      "course_id": "AFST211",
+      "department": "AFST",
+      "number": 211,
+      "title": "Introduction to Contemporary Africa"
+    },
+    {
+      "course_id": "AFST212",
+      "department": "AFST",
+      "number": 212,
+      "title": "Introduction to African History"
+    },
+    {
+      "course_id": "AFST255",
+      "department": "AFST",
+      "number": 255,
+      "title": "Psychology of the Black Experience in the U.S."
+    },
+    {
+      "course_id": "AFST314",
+      "department": "AFST",
+      "number": 314,
+      "title": "Islam in Africa"
+    },
+    {
+      "course_id": "AFST353",
+      "department": "AFST",
+      "number": 353,
+      "title": "African-American History Since 1865"
+    },
+    {
+      "course_id": "AFST354",
+      "department": "AFST",
+      "number": 354,
+      "title": "African-American Women's History"
+    },
+    {
+      "course_id": "AFST370",
+      "department": "AFST",
+      "number": 370,
+      "title": "Black Women in Cross-Cultural Perspectives"
+    },
+    {
+      "course_id": "AGNG100",
+      "department": "AGNG",
+      "number": 100,
+      "title": "Revolutionizing Aging"
+    },
+    {
+      "course_id": "AGNG200",
+      "department": "AGNG",
+      "number": 200,
+      "title": "Aging People, Policy, and Management"
+    },
+    {
+      "course_id": "AGNG369",
+      "department": "AGNG",
+      "number": 369,
+      "title": "Contemporary Issues, Cultures, and Social Work Practices in Aging"
+    },
+    {
+      "course_id": "AMST210",
+      "department": "AMST",
+      "number": 210,
+      "title": "Introduction to Critical Sexuality"
+    },
+    {
+      "course_id": "AMST317",
+      "department": "AMST",
+      "number": 317,
+      "title": "Nonviolence and American Social Movements"
+    },
+    {
+      "course_id": "AMST384",
+      "department": "AMST",
+      "number": 384,
+      "title": "Perspectives on Childhood and Adolescence"
+    },
+    {
+      "course_id": "AMST395",
+      "department": "AMST",
+      "number": 395,
+      "title": "American Music and Culture"
+    },
+    {
+      "course_id": "ANTH101",
+      "department": "ANTH",
+      "number": 101,
+      "title": "Introduction to Anthropology"
+    },
+    {
+      "course_id": "ANTH211",
+      "department": "ANTH",
+      "number": 211,
+      "title": "Cultural Anthropology"
+    },
+    {
+      "course_id": "ANTH212",
+      "department": "ANTH",
+      "number": 212,
+      "title": "The Ethnographer's World"
+    },
+    {
+      "course_id": "ANTH302",
+      "department": "ANTH",
+      "number": 302,
+      "title": "Human Evolution, Physical Anthropology, and Archaeology"
+    },
+    {
+      "course_id": "ANTH311",
+      "department": "ANTH",
+      "number": 311,
+      "title": "Urban Anthropology"
+    },
+    {
+      "course_id": "ANTH316",
+      "department": "ANTH",
+      "number": 316,
+      "title": "Anthropology of Religion"
+    },
+    {
+      "course_id": "ANTH326",
+      "department": "ANTH",
+      "number": 326,
+      "title": "American Indian Cultures"
+    },
+    {
+      "course_id": "CMSC352",
+      "department": "CMSC",
+      "number": 352,
+      "title": "Women, Gender, and Information Technology"
+    },
+    {
+      "course_id": "ECON101",
+      "department": "ECON",
+      "number": 101,
+      "title": "Principles of Microeconomics"
+    },
+    {
+      "course_id": "ECON102",
+      "department": "ECON",
+      "number": 102,
+      "title": "Principles of Macroeconomics"
+    },
+    {
+      "course_id": "ECON280",
+      "department": "ECON",
+      "number": 280,
+      "title": "The International Economy"
+    },
+    {
+      "course_id": "ECON309",
+      "department": "ECON",
+      "number": 309,
+      "title": "Survey of Economics and Finance for Scientists and Engineers"
+    },
+    {
+      "course_id": "ECON363",
+      "department": "ECON",
+      "number": 363,
+      "title": "Sports Economics and Finance"
+    },
+    {
+      "course_id": "EHS200",
+      "department": "EHS",
+      "number": 200,
+      "title": "Concepts of Emergency Health Services"
+    },
+    {
+      "course_id": "EHS311",
+      "department": "EHS",
+      "number": 311,
+      "title": "Stress and Burnout: Personal and Professional Issues"
+    },
+    {
+      "course_id": "EHS345",
+      "department": "EHS",
+      "number": 345,
+      "title": "Death and Dying"
+    },
+    {
+      "course_id": "FYS102",
+      "department": "FYS",
+      "number": 102,
+      "title": "First Year Seminar (SS)"
+    },
+    {
+      "course_id": "FYS106",
+      "department": "FYS",
+      "number": 106,
+      "title": "First Year Seminar in SS or C"
+    },
+    {
+        "course_id": "GES102",
+        "department": "GES",
+        "number": 102,
+        "title": "Human Geography"
+    },
+    {
+        "course_id": "GES105",
+        "department": "GES",
+        "number": 105,
+        "title": "World Regional Geography"
+    },
+    {
+        "course_id": "GES326",
+        "department": "GES",
+        "number": 326,
+        "title": "American Conservation Thought"
+    },
+    {
+        "course_id": "GWST100",
+        "department": "GWST",
+        "number": 100,
+        "title": "Introduction to Gender and Women's Studies"
+    },
+    {
+        "course_id": "GWST200",
+        "department": "GWST",
+        "number": 200,
+        "title": "Studies in Feminist Activism"
+    },
+    {
+        "course_id": "GWST210",
+        "department": "GWST",
+        "number": 210,
+        "title": "Introduction to Critical Sexuality Studies"
+    },
+    {
+        "course_id": "GWST325",
+        "department": "GWST",
+        "number": 325,
+        "title": "History of Women in America to 1870"
+    },
+    {
+        "course_id": "GWST326",
+        "department": "GWST",
+        "number": 326,
+        "title": "History of Women in America Since 1870"
+    },
+    {
+        "course_id": "GWST327",
+        "department": "GWST",
+        "number": 327,
+        "title": "African-American Women's History"
+    },
+    {
+        "course_id": "GWST338",
+        "department": "GWST",
+        "number": 338,
+        "title": "Women, Gender, and Law"
+    },
+    {
+        "course_id": "GWST340",
+        "department": "GWST",
+        "number": 340,
+        "title": "Women, Gender, and Globalization"
+    },
+    {
+        "course_id": "GWST352",
+        "department": "GWST",
+        "number": 352,
+        "title": "Women, Gender, and Information Technology"
+    },
+    {
+        "course_id": "GWST353",
+        "department": "GWST",
+        "number": 353,
+        "title": "Marriage and the Family"
+    },
+    {
+        "course_id": "GWST355",
+        "department": "GWST",
+        "number": 355,
+        "title": "The Sociology of Women"
+    },
+    {
+        "course_id": "GWST366",
+        "department": "GWST",
+        "number": 366,
+        "title": "Doing It: Case Studies in the History of Western Sexuality"
+    },
+    {
+        "course_id": "GWST370",
+        "department": "GWST",
+        "number": 370,
+        "title": "Black Women in Cross-Cultural Perspectives"
+    },
+    {
+        "course_id": "GWST374",
+        "department": "GWST",
+        "number": 374,
+        "title": "European Women's History: 1200–1750"
+    },
+    {
+        "course_id": "GWST375",
+        "department": "GWST",
+        "number": 375,
+        "title": "European Women's History: 1750–1914"
+    },
+    {
+        "course_id": "GWST376",
+        "department": "GWST",
+        "number": 376,
+        "title": "European Women's History: 1914 to the Present"
+    },
+    {
+        "course_id": "GWST377",
+        "department": "GWST",
+        "number": 377,
+        "title": "Women and Social Policy"
+    },
+    {
+        "course_id": "GWST378",
+        "department": "GWST",
+        "number": 378,
+        "title": "Women, Gender, and Science"
+    },
+    {
+        "course_id": "HIST101",
+        "department": "HIST",
+        "number": 101,
+        "title": "American History to 1877"
+    },
+    {
+        "course_id": "HIST102",
+        "department": "HIST",
+        "number": 102,
+        "title": "American History 1877 to the Present"
+    },
+    {
+        "course_id": "HIST103",
+        "department": "HIST",
+        "number": 103,
+        "title": "East Asian Civilization"
+    },
+    {
+        "course_id": "HIST110",
+        "department": "HIST",
+        "number": 110,
+        "title": "Western Civilization to 1700"
+    },
+    {
+        "course_id": "HIST111",
+        "department": "HIST",
+        "number": 111,
+        "title": "Western Civilization 1700 to the Present"
+    },
+    
+    {
+        "course_id": "HIST203",
+        "department": "HIST",
+        "number": 203,
+        "title": "History and Film: Representations of Imperialism in Modern World History"
+    },
+    {
+        "course_id": "HIST204",
+        "department": "HIST",
+        "number": 204,
+        "title": "Don't Buy It: The Global History of Commodities"
+    },
+    {
+        "course_id": "HIST206",
+        "department": "HIST",
+        "number": 206,
+        "title": "Entrepreneurs in the Early Modern World"
+    },
+    {
+        "course_id": "HIST218",
+        "department": "HIST",
+        "number": 218,
+        "title": "Introduction to African-American History: A Survey"
+    },
+    {
+        "course_id": "HIST242",
+        "department": "HIST",
+        "number": 242,
+        "title": "Introduction to Contemporary Africa"
+    },
+    {
+        "course_id": "HIST243",
+        "department": "HIST",
+        "number": 243,
+        "title": "Introduction to African History"
+    },
+    {
+        "course_id": "HIST255",
+        "department": "HIST",
+        "number": 255,
+        "title": "History of Christianity From Its Origins to the Reformation"
+    },
+    {
+        "course_id": "HIST273",
+        "department": "HIST",
+        "number": 273,
+        "title": "History of the Jews in Modern Times: From the Middle Ages to 1917"
+    },
+    {
+        "course_id": "HIST274",
+        "department": "HIST",
+        "number": 274,
+        "title": "Contemporary Jewish History: 1917 to the Present"
+    },
+    {
+        "course_id": "HIST300",
+        "department": "HIST",
+        "number": 300,
+        "title": "Introduction to Public History"
+    },
+    {
+        "course_id": "HIST303",
+        "department": "HIST",
+        "number": 303,
+        "title": "The Second World War"
+    },
+    {
+        "course_id": "HIST306",
+        "department": "HIST",
+        "number": 306,
+        "title": "The First World War"
+    },
+    {
+        "course_id": "HIST308",
+        "department": "HIST",
+        "number": 308,
+        "title": "Perspectives on Childhood and Adolescence in America"
+    },
+    {
+        "course_id": "HIST311",
+        "department": "HIST",
+        "number": 311,
+        "title": "American Entrepreneurs: From Christopher Columbus to Steve Jobs"
+    },
+    {
+        "course_id": "HIST319",
+        "department": "HIST",
+        "number": 319,
+        "title": "Novelty and Nostalgia: The Rise of Modern U.S."
+    },
+    {
+        "course_id": "HIST322",
+        "department": "HIST",
+        "number": 322,
+        "title": "African-American History Since 1865"
+    },
+    {
+        "course_id": "HIST323",
+        "department": "HIST",
+        "number": 323,
+        "title": "African-American Women's History"
+    },
+    {
+        "course_id": "HIST327",
+        "department": "HIST",
+        "number": 327,
+        "title": "Modern Latin American History"
+    },
+    {
+        "course_id": "HIST341",
+        "department": "HIST",
+        "number": 341,
+        "title": "The American Colonies"
+    },
+    {
+        "course_id": "HIST344",
+        "department": "HIST",
+        "number": 344,
+        "title": "The American Civil War"
+    },
+    {
+        "course_id": "HIST345",
+        "department": "HIST",
+        "number": 345,
+        "title": "Origins of Modern America: 1877–1920"
+    },
+    {
+        "course_id": "HIST347",
+        "department": "HIST",
+        "number": 347,
+        "title": "The United States Since 1945"
+    },
+    {
+        "course_id": "IS352",
+        "department": "IS",
+        "number": 352,
+        "title": "Women, Gender, and Information Technology"
+    },
+    {
+        "course_id": "POLI100",
+        "department": "POLI",
+        "number": 100,
+        "title": "American Government and Politics"
+    },
+    {
+        "course_id": "POLI200",
+        "department": "POLI",
+        "number": 200,
+        "title": "Introduction to Politics: Political Science"
+    },
+    {
+        "course_id": "POLI220",
+        "department": "POLI",
+        "number": 220,
+        "title": "The U.S. Constitution: Where It Came From and What It Says"
+    },
+    {
+        "course_id": "POLI270",
+        "department": "POLI",
+        "number": 270,
+        "title": "Culture and Politics"
+    },
+    {
+        "course_id": "POLI280",
+        "department": "POLI",
+        "number": 280,
+        "title": "International Relations"
+    },
+    {
+        "course_id": "POLI338",
+        "department": "POLI",
+        "number": 338,
+        "title": "Women, Gender, and Law"
+    },
+    {
+        "course_id": "POLI387",
+        "department": "POLI",
+        "number": 387,
+        "title": "Political Economy"
+    },
+    {
+        "course_id": "POLI390",
+        "department": "POLI",
+        "number": 390,
+        "title": "American Foreign Policy"
+    },
+    {
+        "course_id": "PSYC100",
+        "department": "PSYC",
+        "number": 100,
+        "title": "Introduction to Psychology"
+    },
+    {
+        "course_id": "PSYC200",
+        "department": "PSYC",
+        "number": 200,
+        "title": "Child Developmental Psychology"
+    },
+    {
+        "course_id": "PSYC210",
+        "department": "PSYC",
+        "number": 210,
+        "title": "Psychology of Learning"
+    },
+    {
+        "course_id": "PSYC230",
+        "department": "PSYC",
+        "number": 230,
+        "title": "Psychology and Culture"
+    },
+    {
+        "course_id": "PSYC255",
+        "department": "PSYC",
+        "number": 255,
+        "title": "Psychology of the Black Experience in the U.S."
+    },
+    {
+        "course_id": "PSYC285",
+        "department": "PSYC",
+        "number": 285,
+        "title": "Abnormal Psychology"
+    },
+    {
+        "course_id": "PSYC304",
+        "department": "PSYC",
+        "number": 304,
+        "title": "Adolescent Psychology"
+    },
+    {
+        "course_id": "PSYC335",
+        "department": "PSYC",
+        "number": 335,
+        "title": "Physiological Psychology"
+    },
+    {
+        "course_id": "PSYC340",
+        "department": "PSYC",
+        "number": 340,
+        "title": "Social Psychology"
+    },
+    {
+        "course_id": "SOCY101",
+        "department": "SOCY",
+        "number": 101,
+        "title": "Basic Concepts of Sociology"
+    },
+    {
+        "course_id": "SOCY201",
+        "department": "SOCY",
+        "number": 201,
+        "title": "Social Problems in American Society"
+    },
+    {
+        "course_id": "SOCY345",
+        "department": "SOCY",
+        "number": 345,
+        "title": "Sociology of Education"
+    },
+    {
+        "course_id": "SOWK200",
+        "department": "SOWK",
+        "number": 200,
+        "title": "Social Issues: Social Action"
+    }
+  ]
+}

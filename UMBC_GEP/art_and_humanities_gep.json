@@ -1,0 +1,482 @@
+{
+  "category": "Arts & Humanities",
+  "code": "AH",
+  "description": "General Education Arts & Humanities Requirement",
+  "courses": [
+    {
+      "course_id": "AFST100",
+      "department": "AFST",
+      "number": 100,
+      "title": "Introduction to the Black Experience"
+    },
+    {
+      "course_id": "AFST213",
+      "department": "AFST",
+      "number": 213,
+      "title": "Africa: Culture and Development"
+    },
+    {
+      "course_id": "AFST230",
+      "department": "AFST",
+      "number": 230,
+      "title": "Comparative African Religions"
+    },
+    {
+      "course_id": "AFST245",
+      "department": "AFST",
+      "number": 245,
+      "title": "Introduction to Black Music"
+    },
+    {
+      "course_id": "AFST260",
+      "department": "AFST",
+      "number": 260,
+      "title": "Black Literature to 1900"
+    },
+    {
+      "course_id": "AFST261",
+      "department": "AFST",
+      "number": 261,
+      "title": "Black Literature: 20th Century"
+    },
+    {
+      "course_id": "AFST344",
+      "department": "AFST",
+      "number": 344,
+      "title": "Black Folklore"
+    },
+    {
+      "course_id": "AFST345",
+      "department": "AFST",
+      "number": 345,
+      "title": "Black American Music"
+    },
+    {
+      "course_id": "AFST347",
+      "department": "AFST",
+      "number": 347,
+      "title": "Gender, Race, and Media"
+    },
+    {
+      "course_id": "AFST361",
+      "department": "AFST",
+      "number": 361,
+      "title": "Studies in Black Drama"
+    },
+    {
+      "course_id": "AGNG415",
+      "department": "AGNG",
+      "number": 415,
+      "title": "The Art of Aging"
+    },
+    {
+      "course_id": "AMST100",
+      "department": "AMST",
+      "number": 100,
+      "title": "Intro to American Studies"
+    },
+    {
+      "course_id": "AMST200",
+      "department": "AMST",
+      "number": 200,
+      "title": "What is an American?"
+    },
+    {
+      "course_id": "AMST310",
+      "department": "AMST",
+      "number": 310,
+      "title": "Gender and Inequality in America"
+    },
+    {
+      "course_id": "AMST320",
+      "department": "AMST",
+      "number": 320,
+      "title": "Television in American Culture"
+    },
+    {
+      "course_id": "AMST322",
+      "department": "AMST",
+      "number": 322,
+      "title": "American Society and Culture in Film"
+    },
+    {
+      "course_id": "AMST325",
+      "department": "AMST",
+      "number": 325,
+      "title": "Studies in Popular Culture"
+    },
+    {
+      "course_id": "AMST345",
+      "department": "AMST",
+      "number": 345,
+      "title": "Indigenous Heritage"
+    },
+    {
+      "course_id": "AMST352",
+      "department": "AMST",
+      "number": 352,
+      "title": "American Culture in Global Perspective"
+    },
+    {
+      "course_id": "AMST365",
+      "department": "AMST",
+      "number": 365,
+      "title": "Asian American Fictions"
+    },
+    {
+      "course_id": "AMST369",
+      "department": "AMST",
+      "number": 369,
+      "title": "Filipino American Culture"
+    },
+    {
+      "course_id": "AMST375",
+      "department": "AMST",
+      "number": 375,
+      "title": "Studies in Asian American Culture"
+    },
+    {
+      "course_id": "AMST376",
+      "department": "AMST",
+      "number": 376,
+      "title": "The American Dream"
+    },
+    {
+      "course_id": "AMST380",
+      "department": "AMST",
+      "number": 380,
+      "title": "Community in America"
+    },
+    {
+      "course_id": "AMST382",
+      "department": "AMST",
+      "number": 382,
+      "title": "Perspectives on the Family"
+    },
+    {
+      "course_id": "AMST388",
+      "department": "AMST",
+      "number": 388,
+      "title": "American Environments: Landscape and Culture"
+    },
+    
+    {
+        "course_id": "ANCS200",
+        "department": "ANCS",
+        "number": 200,
+        "title": "Israel and the Ancient Near East"
+    },
+    {
+        "course_id": "ANCS201",
+        "department": "ANCS",
+        "number": 201,
+        "title": "The Ancient Greeks"
+    },
+    {
+        "course_id": "ANCS202",
+        "department": "ANCS",
+        "number": 202,
+        "title": "The Roman World"
+    },
+    {
+        "course_id": "ANCS204",
+        "department": "ANCS",
+        "number": 204,
+        "title": "Masterpieces of Ancient Literature"
+    },
+    {
+        "course_id": "ANCS210",
+        "department": "ANCS",
+        "number": 210,
+        "title": "Classical Mythology"
+    },
+    {
+        "course_id": "ANCS220",
+        "department": "ANCS",
+        "number": 220,
+        "title": "Judaism in the Time of Jesus and Hillel"
+    },
+    {
+        "course_id": "ANCS301",
+        "department": "ANCS",
+        "number": 301,
+        "title": "Ancient Civilizations"
+    },
+    {
+        "course_id": "ANCS305",
+        "department": "ANCS",
+        "number": 305,
+        "title": "Warfare in the Ancient World"
+    },
+    {
+        "course_id": "ANCS320",
+        "department": "ANCS",
+        "number": 320,
+        "title": "Women and Gender in the Classical World"
+    },
+    {
+        "course_id": "ANCS330",
+        "department": "ANCS",
+        "number": 330,
+        "title": "Ancient Science and Technology"
+    },
+    {
+        "course_id": "ANCS370",
+        "department": "ANCS",
+        "number": 370,
+        "title": "When Worlds Collide"
+    },
+    {
+        "course_id": "ARCH100",
+        "department": "ARCH",
+        "number": 100,
+        "title": "Introduction to Archaeology of the Ancient World"
+    },
+    {
+        "course_id": "ARCH120",
+        "department": "ARCH",
+        "number": 120,
+        "title": "World Archaeology"
+    },
+    {
+        "course_id": "ARCH200",
+        "department": "ARCH",
+        "number": 200,
+        "title": "Greek Archaeology and Art"
+    },
+    {
+        "course_id": "ARCH201",
+        "department": "ARCH",
+        "number": 201,
+        "title": "Roman Archaeology and Art"
+    },
+    {
+        "course_id": "ARCH220",
+        "department": "ARCH",
+        "number": 220,
+        "title": "Archaeology and Art of Ancient Egypt"
+    },
+    {
+        "course_id": "ARCH330",
+        "department": "ARCH",
+        "number": 330,
+        "title": "Archaeology of the Prehistoric Aegean"
+    },
+    {
+        "course_id": "ARCH340",
+        "department": "ARCH",
+        "number": 340,
+        "title": "Cities of the Past"
+    },
+    {
+        "course_id": "ART215",
+        "department": "ART",
+        "number": 215,
+        "title": "Intro to Art and Media Studies"
+    },
+    {
+        "course_id": "ART216",
+        "department": "ART",
+        "number": 216,
+        "title": "Studies in Visual Culture"
+    },
+    {
+        "course_id": "ART220",
+        "department": "ART",
+        "number": 220,
+        "title": "Art History I"
+    },
+    {
+        "course_id": "ART221",
+        "department": "ART",
+        "number": 221,
+        "title": "Art History II"
+    },
+    {
+        "course_id": "ART321",
+        "department": "ART",
+        "number": 321,
+        "title": "From the Enlightenment to the Birth of Modernism: 1750-1880"
+    },
+    {
+        "course_id": "ART323",
+        "department": "ART",
+        "number": 323,
+        "title": "Modernism: 1880-1960"
+    },
+    {
+        "course_id": "ART324",
+        "department": "ART",
+        "number": 324,
+        "title": "History of Film: Origins to 1965"
+    },
+    {
+        "course_id": "ART325",
+        "department": "ART",
+        "number": 325,
+        "title": "History of Film and Video: 1965 to the Present"
+    },
+    {
+        "course_id": "ART326",
+        "department": "ART",
+        "number": 326,
+        "title": "History of Photography I"
+    },
+    {
+        "course_id": "ART327",
+        "department": "ART",
+        "number": 327,
+        "title": "Contemporary Directions in Photography"
+    },
+    {
+        "course_id": "CMSC304",
+        "department": "CMSC",
+        "number": 304,
+        "title": "Social and Ethical Issues in Information Technology"
+    },
+    {
+        "course_id": "DANC100",
+        "department": "DANC",
+        "number": 100,
+        "title": "Introduction to Contemporary Dance"
+    },
+    {
+        "course_id": "DANC101",
+        "department": "DANC",
+        "number": 101,
+        "title": "Dance Appreciation"
+    },
+    {
+        "course_id": "DANC201",
+        "department": "DANC",
+        "number": 201,
+        "title": "Dance History I: Cultural and Classical Forms"
+    },
+    {
+        "course_id": "DANC202",
+        "department": "DANC",
+        "number": 202,
+        "title": "Dance History II: Contemporary Forms"
+    },
+    {
+        "course_id": "ENES251",
+        "department": "ENES",
+        "number": 251,
+        "title": "Ethical Issues in Science, Engineering, and Information Technology"
+    },
+    {
+        "course_id": "ENGL190",
+        "department": "ENGL",
+        "number": 190,
+        "title": "The World of Language I"
+    },
+    {
+        "course_id": "ENGL209",
+        "department": "ENGL",
+        "number": 209,
+        "title": "American Literature for ESL Students"
+    },
+    {
+        "course_id": "ENGL210",
+        "department": "ENGL",
+        "number": 210,
+        "title": "Introduction to Literature"
+    },
+    {
+        "course_id": "ENGL241",
+        "department": "ENGL",
+        "number": 241,
+        "title": "Currents in British Literature"
+    },
+    {
+        "course_id": "ENGL243",
+        "department": "ENGL",
+        "number": 243,
+        "title": "Currents in American Literature"
+    },
+    {
+        "course_id": "ENGL250",
+        "department": "ENGL",
+        "number": 250,
+        "title": "Introduction to Shakespeare"
+    },
+    {
+        "course_id": "ENGL260",
+        "department": "ENGL",
+        "number": 260,
+        "title": "Black Literature to 1900"
+    },
+    {
+        "course_id": "ENGL261",
+        "department": "ENGL",
+        "number": 261,
+        "title": "Black Literature: 20th Century"
+    },
+    {
+        "course_id": "ENGL271",
+        "department": "ENGL",
+        "number": 271,
+        "title": "Introduction to Creative Writing: Fiction"
+    },
+    {
+        "course_id": "ENGL272",
+        "department": "ENGL",
+        "number": 272,
+        "title": "Introduction to Creative Writing: Scriptwriting"
+    },
+    {
+        "course_id": "ENGL273",
+        "department": "ENGL",
+        "number": 273,
+        "title": "Introduction to Creative Writing: Poetry"
+    },
+    {
+        "course_id": "ENGL291",
+        "department": "ENGL",
+        "number": 291,
+        "title": "Introduction to Writing Creative Essays"
+    },
+    {
+        "course_id": "ENGL347",
+        "department": "ENGL",
+        "number": 347,
+        "title": "Contemporary Developments in Literature and Culture"
+    },
+    {
+        "course_id": "ENGL349",
+        "department": "ENGL",
+        "number": 349,
+        "title": "The Bible and Literature"
+    },
+    {
+        "course_id": "ENGL361",
+        "department": "ENGL",
+        "number": 361,
+        "title": "Studies in Black Drama"
+    },
+    {
+        "course_id": "ENGL369",
+        "department": "ENGL",
+        "number": 369,
+        "title": "Race and Ethnicity in U.S. Literature"
+    },
+    {
+        "course_id": "FREN340",
+        "department": "FREN",
+        "number": 340,
+        "title": "Interconnections: Social and Historical Confluences"
+    },
+    {
+        "course_id": "FYS101",
+        "department": "FYS",
+        "number": 101,
+        "title": "First Year Seminar (AH)"
+    },
+    {
+        "course_id": "FYS107",
+        "department": "FYS",
+        "number": 107,
+        "title": "First Year Seminar (AH/C)"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "category": "Mathematics",
+  "code": "M",
+  "description": "General Education Mathematics Requirement",
+  "courses": [
+    {
+      "course_id": "CMSC203",
+      "department": "CMSC",
+      "number": 203,
+      "title": "Discrete Structures"
+    },
+    {
+      "course_id": "FYS108",
+      "department": "FYS",
+      "number": 108,
+      "title": "First Year Seminar (M)"
+    },
+    {
+      "course_id": "MATH100",
+      "department": "MATH",
+      "number": 100,
+      "title": "Introduction to Contemporary Mathematics"
+    },
+    {
+      "course_id": "MATH115",
+      "department": "MATH",
+      "number": 115,
+      "title": "Finite Mathematics"
+    },
+    {
+      "course_id": "MATH131",
+      "department": "MATH",
+      "number": 131,
+      "title": "Mathematics for Elementary School Teachers I"
+    },
+    {
+      "course_id": "MATH150",
+      "department": "MATH",
+      "number": 150,
+      "title": "Precalculus Mathematics"
+    },
+    {
+      "course_id": "MATH151",
+      "department": "MATH",
+      "number": 151,
+      "title": "Calculus and Analytic Geometry I"
+    },
+    {
+      "course_id": "MATH155",
+      "department": "MATH",
+      "number": 155,
+      "title": "Applied Calculus"
+    },
+    {
+      "course_id": "STAT121",
+      "department": "STAT",
+      "number": 121,
+      "title": "Introduction to Statistics for the Social Sciences"
+    },
+    {
+      "course_id": "STAT350",
+      "department": "STAT",
+      "number": 350,
+      "title": "Statistics With Applications in the Biological Sciences"
+    },
+    {
+      "course_id": "STAT351",
+      "department": "STAT",
+      "number": 351,
+      "title": "Applied Statistics for Business and Economics"
+    }
+  ]
+}
