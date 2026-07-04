@@ -1,0 +1,206 @@
+[
+  {
+    "course_id": "GREK350",
+    "department": "GREK",
+    "number": 350,
+    "title": "Septuagint"
+  },
+  {
+    "course_id": "GREK352",
+    "department": "GREK",
+    "number": 352,
+    "title": "Greek Tragedy and Comedy"
+  },
+  {
+    "course_id": "GREK361",
+    "department": "GREK",
+    "number": 361,
+    "title": "Greek Oratory"
+  },
+  {
+    "course_id": "GREK362",
+    "department": "GREK",
+    "number": 362,
+    "title": "Selections from Greek Historians"
+  },
+  {
+    "course_id": "GREK371",
+    "department": "GREK",
+    "number": 371,
+    "title": "Homer"
+  },
+  {
+    "course_id": "GREK372",
+    "department": "GREK",
+    "number": 372,
+    "title": "Plato"
+  },
+  {
+    "course_id": "GREK381",
+    "department": "GREK",
+    "number": 381,
+    "title": "History of Greek Literature I"
+  },
+  {
+    "course_id": "GREK382",
+    "department": "GREK",
+    "number": 382,
+    "title": "History of Greek Literature II"
+  },
+  {
+    "course_id": "GWST100",
+    "department": "GWST",
+    "number": 100,
+    "title": "Introduction to Gender and Women's Studies"
+  },
+  {
+    "course_id": "GWST210",
+    "department": "GWST",
+    "number": 210,
+    "title": "Introduction to Critical Sexuality Studies"
+  },
+  {
+    "course_id": "GWST255",
+    "department": "GWST",
+    "number": 255,
+    "title": "Intercultural Paris"
+  },
+  {
+    "course_id": "GWST315",
+    "department": "GWST",
+    "number": 315,
+    "title": "Modern Masculinities"
+  },
+  {
+    "course_id": "GWST320",
+    "department": "GWST",
+    "number": 320,
+    "title": "Transnational Feminist Film"
+  },
+  {
+    "course_id": "GWST322",
+    "department": "GWST",
+    "number": 322,
+    "title": "Gender, Race, and Media"
+  },
+  {
+    "course_id": "GWST327",
+    "department": "GWST",
+    "number": 327,
+    "title": "African American Women's History"
+  },
+  {
+    "course_id": "GWST330",
+    "department": "GWST",
+    "number": 330,
+    "title": "Women and Gender in the Classical World"
+  },
+  {
+    "course_id": "GWST340",
+    "department": "GWST",
+    "number": 340,
+    "title": "Global Perspectives on Gender and Women"
+  },
+  {
+    "course_id": "GWST342",
+    "department": "GWST",
+    "number": 342,
+    "title": "Gender in Modern South Asia"
+  },
+  {
+    "course_id": "GWST343",
+    "department": "GWST",
+    "number": 343,
+    "title": "Gender, Human Rights, and Political Violence in Latin America"
+  },
+  {
+    "course_id": "GWST366",
+    "department": "GWST",
+    "number": 366,
+    "title": "Doing It: Case Studies in the History of Western Sexuality"
+  },
+  {
+    "course_id": "GWST370",
+    "department": "GWST",
+    "number": 370,
+    "title": "Black Women in Cross-Cultural Perspectives"
+  },
+  {
+    "course_id": "GWST374",
+    "department": "GWST",
+    "number": 374,
+    "title": "European Women's History: 1200–1750"
+  },
+  {
+    "course_id": "GWST375",
+    "department": "GWST",
+    "number": 375,
+    "title": "European Women's History: 1750–1914"
+  },
+  {
+    "course_id": "GWST376",
+    "department": "GWST",
+    "number": 376,
+    "title": "European Women's History: 1914 to the Present"
+  },
+  {
+    "course_id": "GWST380",
+    "department": "GWST",
+    "number": 380,
+    "title": "Women and Gender in Asia"
+  },
+  {
+    "course_id": "HAPP403",
+    "department": "HAPP",
+    "number": 403,
+    "title": "Introduction to International Field Research"
+  },
+  {
+    "course_id": "HEBR202",
+    "department": "HEBR",
+    "number": 202,
+    "title": "Intermediate Modern Hebrew II"
+  },
+  {
+    "course_id": "HEBR301",
+    "department": "HEBR",
+    "number": 301,
+    "title": "Advanced Hebrew I"
+  },
+  {
+    "course_id": "HEBR302",
+    "department": "HEBR",
+    "number": 302,
+    "title": "Advanced Hebrew II"
+  },
+  {
+    "course_id": "JPNS202",
+    "department": "JPNS",
+    "number": 202,
+    "title": "Intermediate Japanese II"
+  },
+  {
+    "course_id": "KORE202",
+    "department": "KORE",
+    "number": 202,
+    "title": "Intermediate Korean II"
+  },
+  {
+    "course_id": "KORE310",
+    "department": "KORE",
+    "number": 310,
+    "title": "Korean Language in Social and Cultural Context"
+  },
+  {
+    "course_id": "SPAN307",
+    "department": "SPAN",
+    "number": 307,
+    "title": "The Cultures of Spain"
+  },
+  {
+    "course_id": "SPAN308",
+    "department": "SPAN",
+    "number": 308,
+    "title": "The Cultures of Latin America"
+  }
+]

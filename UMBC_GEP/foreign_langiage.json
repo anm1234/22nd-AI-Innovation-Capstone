@@ -1,0 +1,85 @@
+{
+  "category": "Foreign Language",
+  "code": "L",
+  "description": "General Education Foreign Language Requirement",
+  "courses": [
+    {
+      "course_id": "ARBC201",
+      "department": "ARBC",
+      "number": 201,
+      "title": "Intermediate Arabic I"
+    },
+    {
+      "course_id": "CHIN201",
+      "department": "CHIN",
+      "number": 201,
+      "title": "Intermediate Chinese I (Mandarin)"
+    },
+    {
+      "course_id": "FREN201",
+      "department": "FREN",
+      "number": 201,
+      "title": "Intermediate French I"
+    },
+    {
+      "course_id": "GERM201",
+      "department": "GERM",
+      "number": 201,
+      "title": "Intermediate German I"
+    },
+    {
+      "course_id": "GREK201",
+      "department": "GREK",
+      "number": 201,
+      "title": "Intermediate Greek I (Ancient)"
+    },
+    {
+      "course_id": "HEBR201",
+      "department": "HEBR",
+      "number": 201,
+      "title": "Intermediate Hebrew I"
+    },
+    {
+      "course_id": "HIND201",
+      "department": "HIND",
+      "number": 201,
+      "title": "Intermediate Hindi I"
+    },
+    {
+      "course_id": "JPNS201",
+      "department": "JPNS",
+      "number": 201,
+      "title": "Intermediate Japanese I"
+    },
+    {
+      "course_id": "KORE201",
+      "department": "KORE",
+      "number": 201,
+      "title": "Intermediate Korean I"
+    },
+    {
+      "course_id": "LATN201",
+      "department": "LATN",
+      "number": 201,
+      "title": "Intermediate Latin I"
+    },
+    {
+      "course_id": "RUSS201",
+      "department": "RUSS",
+      "number": 201,
+      "title": "Intermediate Russian I"
+    },
+    {
+      "course_id": "SPAN201",
+      "department": "SPAN",
+      "number": 201,
+      "title": "Intermediate Spanish I"
+    },
+    {
+      "course_id": "WOL201",
+      "department": "WOL",
+      "number": 201,
+      "title": "Intermediate Wolof I"
+    }
+  ]
+}

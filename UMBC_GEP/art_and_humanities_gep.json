@@ -477,6 +477,423 @@
         "department": "FYS",
         "number": 107,
         "title": "First Year Seminar (AH/C)"
+    },
+    
+    {
+        "course_id": "GWST255",
+        "department": "GWST",
+        "number": 255,
+        "title": "Intercultural Paris"
+    },
+    {
+        "course_id": "GWST310",
+        "department": "GWST",
+        "number": 310,
+        "title": "Gender and Inequality in America"
+    },
+    {
+        "course_id": "GWST315",
+        "department": "GWST",
+        "number": 315,
+        "title": "Modern Masculinities"
+    },
+    {
+        "course_id": "GWST320",
+        "department": "GWST",
+        "number": 320,
+        "title": "Transnational Feminist Film"
+    },
+    {
+        "course_id": "GWST321",
+        "department": "GWST",
+        "number": 321,
+        "title": "Queer Representation in Film and TV"
+    },
+    {
+        "course_id": "GWST322",
+        "department": "GWST",
+        "number": 322,
+        "title": "Gender, Race, and Media"
+    },
+    {
+        "course_id": "GWST330",
+        "department": "GWST",
+        "number": 330,
+        "title": "Gender and Women in the Classical World"
+    },
+    {
+        "course_id": "GWST342",
+        "department": "GWST",
+        "number": 342,
+        "title": "Gender in Modern South Asia"
+    },
+    {
+        "course_id": "GWST343",
+        "department": "GWST",
+        "number": 343,
+        "title": "Gender, Human Rights, and Political Violence in Latin America"
+    },
+    {
+        "course_id": "GWST349",
+        "department": "GWST",
+        "number": 349,
+        "title": "Gender, Sexuality, and Theatrical Performance"
+    },
+    {
+        "course_id": "GWST382",
+        "department": "GWST",
+        "number": 382,
+        "title": "Perspectives on the Family"
+    },
+    {
+        "course_id": "HAPP358",
+        "department": "HAPP",
+        "number": 358,
+        "title": "Bioethics"
+    },
+    {
+        "course_id": "HCST100",
+        "department": "HCST",
+        "number": 100,
+        "title": "Introduction to the Human Context of Science and Technology"
+    },
+    {
+        "course_id": "HEBR302",
+        "department": "HEBR",
+        "number": 302,
+        "title": "Advanced Hebrew II"
+    },
+    {
+        "course_id": "HIST330",
+        "department": "HIST",
+        "number": 330,
+        "title": "Ancient Science and Technology"
+    },
+    {
+        "course_id": "HIST371",
+        "department": "HIST",
+        "number": 371,
+        "title": "History and Film"
+    },
+    {
+        "course_id": "HUM120H",
+        "department": "HUM",
+        "number": "120H",
+        "title": "Introduction to the Study of the Humanities I"
+    },
+    {
+        "course_id": "HUM121H",
+        "department": "HUM",
+        "number": "121H",
+        "title": "Introduction to the Study of the Humanities II"
+    },
+    {
+        "course_id": "IS304",
+        "department": "IS",
+        "number": 304,
+        "title": "Ethical Issues in Information Systems"
+    },
+    {
+        "course_id": "JDST100",
+        "department": "JDST",
+        "number": 100,
+        "title": "Introduction to Judaic Studies"
+    },
+    {
+        "course_id": "JDST200",
+        "department": "JDST",
+        "number": 200,
+        "title": "Israel and the Ancient Near East"
+    },
+    {
+        "course_id": "JDST201",
+        "department": "JDST",
+        "number": 201,
+        "title": "Judaism in the Time of Jesus and Hillel"
+    },
+    {
+        "course_id": "JDST230",
+        "department": "JDST",
+        "number": 230,
+        "title": "Introduction to the Jewish Bible"
+    },
+    {
+        "course_id": "JDST323",
+        "department": "JDST",
+        "number": 323,
+        "title": "Survey of Modern Hebrew Literature"
+    },
+    {
+        "course_id": "JDST340",
+        "department": "JDST",
+        "number": 340,
+        "title": "Origins of Anti-Semitism"
+    },
+    {
+        "course_id": "LING190",
+        "department": "LING",
+        "number": 190,
+        "title": "The World of Language I"
+    },
+    {
+        "course_id": "LING210",
+        "department": "LING",
+        "number": 210,
+        "title": "Introduction to Language Structures"
+    },
+    {
+        "course_id": "MCS101",
+        "department": "MCS",
+        "number": 101,
+        "title": "Media Literacy"
+    },
+    {
+        "course_id": "MCS222",
+        "department": "MCS",
+        "number": 222,
+        "title": "Introduction to Media and Communication Studies"
+    },
+    {
+        "course_id": "MLL190",
+        "department": "MLL",
+        "number": 190,
+        "title": "The World of Language I"
+    },
+    {
+        "course_id": "MLL210",
+        "department": "MLL",
+        "number": 210,
+        "title": "Africa: Culture and Development"
+    },
+    {
+        "course_id": "MLL215",
+        "department": "MLL",
+        "number": 215,
+        "title": "French Film Classics"
+    },
+    {
+        "course_id": "MLL234",
+        "department": "MLL",
+        "number": 234,
+        "title": "Culture and Values Through Art I"
+    },
+    {
+        "course_id": "MLL235",
+        "department": "MLL",
+        "number": 235,
+        "title": "Culture and Values Through Art II"
+    },
+    {
+        "course_id": "MLL255",
+        "department": "MLL",
+        "number": 255,
+        "title": "Intercultural Paris"
+    },
+    {
+        "course_id": "MLL301",
+        "department": "MLL",
+        "number": 301,
+        "title": "Textual Analysis: Words, Images, Music"
+    },
+    {
+        "course_id": "MLL320",
+        "department": "MLL",
+        "number": 320,
+        "title": "Transnational Feminist Film"
+    },
+    {
+        "course_id": "MLL322",
+        "department": "MLL",
+        "number": 322,
+        "title": "Gender, Race, and Media"
+    },
+    {
+        "course_id": "MLL323",
+        "department": "MLL",
+        "number": 323,
+        "title": "Survey of Modern Hebrew Literature"
+    },
+    {
+        "course_id": "MLL328",
+        "department": "MLL",
+        "number": 328,
+        "title": "Traditional Chinese Fiction and Drama"
+    },
+    {
+        "course_id": "MLL340",
+        "department": "MLL",
+        "number": 340,
+        "title": "Interconnections: Social and Historical Confluences"
+    },
+    {
+        "course_id": "MUSC101",
+        "department": "MUSC",
+        "number": 101,
+        "title": "Fundamentals of Music Theory"
+    },
+    {
+        "course_id": "MUSC214",
+        "department": "MUSC",
+        "number": 214,
+        "title": "The History of Jazz"
+    },
+    {
+        "course_id": "MUSC215",
+        "department": "MUSC",
+        "number": 215,
+        "title": "Introduction to Black Music"
+    },
+    {
+        "course_id": "MUSC217",
+        "department": "MUSC",
+        "number": 217,
+        "title": "Rock and Related Music: 1950 to the Present"
+    },
+    {
+        "course_id": "MUSC230",
+        "department": "MUSC",
+        "number": 230,
+        "title": "Musics of the World"
+    },
+    {
+        "course_id": "MUSC321",
+        "department": "MUSC",
+        "number": 321,
+        "title": "Music History I"
+    },
+    {
+        "course_id": "MUSC322",
+        "department": "MUSC",
+        "number": 322,
+        "title": "Music History II"
+    },
+    {
+        "course_id": "MUSC327",
+        "department": "MUSC",
+        "number": 327,
+        "title": "Avant-Garde Performance: Youth Rebellion"
+    },
+    {
+        "course_id": "MUSC333",
+        "department": "MUSC",
+        "number": 333,
+        "title": "Race and Jazz"
+    },
+    {
+        "course_id": "MUSC336",
+        "department": "MUSC",
+        "number": 336,
+        "title": "The Beatles: Career, Music, Innovation, Culture, Impact"
+    },
+    {
+        "course_id": "MUSC339",
+        "department": "MUSC",
+        "number": 339,
+        "title": "Black American Music"
+    },
+    {
+        "course_id": "MUSC358",
+        "department": "MUSC",
+        "number": 358,
+        "title": "Music in Performance"
+    },
+    {
+        "course_id": "PHIL100",
+        "department": "PHIL",
+        "number": 100,
+        "title": "Introduction to Philosophy"
+    },
+    {
+        "course_id": "PHIL146",
+        "department": "PHIL",
+        "number": 146,
+        "title": "Critical Thinking"
+    },
+    {
+        "course_id": "PHIL150",
+        "department": "PHIL",
+        "number": 150,
+        "title": "Contemporary Moral Issues"
+    },
+    {
+        "course_id": "PHIL152",
+        "department": "PHIL",
+        "number": 152,
+        "title": "Introduction to Moral Theory"
+    },
+    {
+        "course_id": "PHIL210",
+        "department": "PHIL",
+        "number": 210,
+        "title": "Philosophy of Religion"
+    },
+    {
+        "course_id": "PHIL248",
+        "department": "PHIL",
+        "number": 248,
+        "title": "Introduction to Scientific Reasoning"
+    },
+    {
+        "course_id": "PHIL251",
+        "department": "PHIL",
+        "number": 251,
+        "title": "Ethical Issues in Science, Engineering, and Information Technology"
+    },
+    {
+        "course_id": "PHIL321",
+        "department": "PHIL",
+        "number": 321,
+        "title": "History of Philosophy: Ancient"
+    },
+    {
+        "course_id": "PHIL322",
+        "department": "PHIL",
+        "number": 322,
+        "title": "History of Philosophy: Modern"
+    },
+    {
+        "course_id": "PHIL332",
+        "department": "PHIL",
+        "number": 332,
+        "title": "Philosophy of the Asian Martial Arts"
+    },
+    {
+        "course_id": "PHIL334",
+        "department": "PHIL",
+        "number": 334,
+        "title": "Asian Philosophy"
+    },
+    {
+        "course_id": "PHIL346",
+        "department": "PHIL",
+        "number": 346,
+        "title": "Deductive Systems"
+    },
+    {
+        "course_id": "PHIL350",
+        "department": "PHIL",
+        "number": 350,
+        "title": "Ethical Theory"
+    },
+    {
+        "course_id": "PHIL355",
+        "department": "PHIL",
+        "number": 355,
+        "title": "Political Philosophy"
+    },
+    {
+        "course_id": "PHIL358",
+        "department": "PHIL",
+        "number": 358,
+        "title": "Bioethics"
+    },
+    {
+        "course_id": "PHIL372",
+        "department": "PHIL",
+        "number": 372,
+        "title": "Philosophy of Science"
     }
-  ]
+
+    
+    ]
 }

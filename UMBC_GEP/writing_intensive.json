@@ -1,0 +1,133 @@
+{
+  "category": "Writing Intensive",
+  "code": "WI",
+  "description": "General Education Writing Intensive Requirement",
+  "courses": [
+    {
+      "course_id": "AFST370",
+      "department": "AFST",
+      "number": 370,
+      "title": "Black Women in Cross-Cultural Perspectives"
+    },
+    {
+      "course_id": "AMST352",
+      "department": "AMST",
+      "number": 352,
+      "title": "American Culture in Global Perspective"
+    },
+    {
+      "course_id": "ANTH401",
+      "department": "ANTH",
+      "number": 401,
+      "title": "Anthropological Theory"
+    },
+    {
+      "course_id": "ART324",
+      "department": "ART",
+      "number": 324,
+      "title": "History of Film: Origins to 1965"
+    },
+    {
+      "course_id": "ART325",
+      "department": "ART",
+      "number": 325,
+      "title": "History of Film and Video: 1965 to the Present"
+    },
+    {
+      "course_id": "CMSC304",
+      "department": "CMSC",
+      "number": 304,
+      "title": "Social and Ethical Issues in Information Technology"
+    },
+    {
+      "course_id": "CMSC345",
+      "department": "CMSC",
+      "number": 345,
+      "title": "Software Design and Development"
+    },
+    {
+      "course_id": "ECON382",
+      "department": "ECON",
+      "number": 382,
+      "title": "Asian Economic History"
+    },
+    {
+      "course_id": "ECON418",
+      "department": "ECON",
+      "number": 418,
+      "title": "Economics of Innovation and Technology"
+    },
+    {
+      "course_id": "ENGL301",
+      "department": "ENGL",
+      "number": 301,
+      "title": "Analysis of Literary Language"
+    },
+    {
+      "course_id": "ENGL393",
+      "department": "ENGL",
+      "number": 393,
+      "title": "Technical Communication"
+    },
+    {
+      "course_id": "GES401",
+      "department": "GES",
+      "number": 401,
+      "title": "Senior Seminar in Geography and Environmental Systems"
+    },
+    {
+      "course_id": "GWST377",
+      "department": "GWST",
+      "number": 377,
+      "title": "Women and Social Policy"
+    },
+    {
+      "course_id": "HIST300",
+      "department": "HIST",
+      "number": 300,
+      "title": "Introduction to Public History"
+    },
+    {
+      "course_id": "IS369",
+      "department": "IS",
+      "number": 369,
+      "title": "Research Seminar: Writings in Information Systems"
+    },
+    {
+      "course_id": "IS439",
+      "department": "IS",
+      "number": 439,
+      "title": "Advanced Project Management"
+    },
+    {
+      "course_id": "MCS333",
+      "department": "MCS",
+      "number": 333,
+      "title": "Media Criticism"
+    },
+    {
+      "course_id": "PHIL358",
+      "department": "PHIL",
+      "number": 358,
+      "title": "Bioethics"
+    },
+    {
+      "course_id": "POLI390",
+      "department": "POLI",
+      "number": 390,
+      "title": "American Foreign Policy"
+    },
+    {
+      "course_id": "SOCY345",
+      "department": "SOCY",
+      "number": 345,
+      "title": "Sociology of Education"
+    },
+    {
+      "course_id": "THTR385",
+      "department": "THTR",
+      "number": 385,
+      "title": "Dramatic Literature"
+    }
+  ]
+}

@@ -1,0 +1,764 @@
+{
+  "category": "Global Cultures",
+  "code": "C",
+  "description": "General Education Global Cultures Requirement",
+  "courses": [
+    {
+      "course_id": "AFST211",
+      "department": "AFST",
+      "number": 211,
+      "title": "Introduction to Contemporary Africa"
+    },
+    {
+      "course_id": "AFST212",
+      "department": "AFST",
+      "number": 212,
+      "title": "Introduction to African History"
+    },
+    {
+      "course_id": "AFST213",
+      "department": "AFST",
+      "number": 213,
+      "title": "Africa: Culture and Development"
+    },
+    {
+      "course_id": "AFST245",
+      "department": "AFST",
+      "number": 245,
+      "title": "Introduction to Black Music"
+    },
+    {
+      "course_id": "AFST314",
+      "department": "AFST",
+      "number": 314,
+      "title": "Islam in Africa"
+    },
+    {
+      "course_id": "AFST347",
+      "department": "AFST",
+      "number": 347,
+      "title": "Gender, Race, and Media"
+    },
+    {
+      "course_id": "AFST353",
+      "department": "AFST",
+      "number": 353,
+      "title": "African American History Since 1865"
+    },
+    {
+      "course_id": "AFST354",
+      "department": "AFST",
+      "number": 354,
+      "title": "African American Women's History"
+    },
+    {
+      "course_id": "AFST370",
+      "department": "AFST",
+      "number": 370,
+      "title": "Black Women in Cross-Cultural Perspective"
+    },
+    {
+      "course_id": "AGNG369",
+      "department": "AGNG",
+      "number": 369,
+      "title": "Contemporary Issues, Culture, and Social Work Practices in Aging"
+    },
+    {
+      "course_id": "AMST200",
+      "department": "AMST",
+      "number": 200,
+      "title": "What is an American?"
+    },
+    {
+      "course_id": "AMST210",
+      "department": "AMST",
+      "number": 210,
+      "title": "Introduction to Critical Sexuality Studies"
+    },
+    {
+      "course_id": "AMST345",
+      "department": "AMST",
+      "number": 345,
+      "title": "Indigenous Heritage"
+    },
+    {
+      "course_id": "AMST352",
+      "department": "AMST",
+      "number": 352,
+      "title": "American Culture in Global Perspective"
+    },
+    {
+      "course_id": "AMST365",
+      "department": "AMST",
+      "number": 365,
+      "title": "Asian American Fictions"
+    },
+    {
+      "course_id": "AMST369",
+      "department": "AMST",
+      "number": 369,
+      "title": "Filipino American Cultural Studies"
+    },
+    {
+      "course_id": "AMST375",
+      "department": "AMST",
+      "number": 375,
+      "title": "Studies in Asian American Culture"
+    },
+    {
+      "course_id": "AMST395",
+      "department": "AMST",
+      "number": 395,
+      "title": "American Music and Culture"
+    },
+    {
+      "course_id": "ANCS120",
+      "department": "ANCS",
+      "number": 120,
+      "title": "The Greeks and the Romans in the Mediterranean World"
+    },
+    {
+      "course_id": "ANCS150",
+      "department": "ANCS",
+      "number": 150,
+      "title": "English Word Roots from Latin and Greek"
+    },
+    {
+      "course_id": "ANCS200",
+      "department": "ANCS",
+      "number": 200,
+      "title": "Israel and the Ancient Near East"
+    },
+    {
+      "course_id": "ANCS201",
+      "department": "ANCS",
+      "number": 201,
+      "title": "The Ancient Greeks"
+    },
+    {
+      "course_id": "ANCS202",
+      "department": "ANCS",
+      "number": 202,
+      "title": "The Roman World"
+    },
+    {
+      "course_id": "ANCS204",
+      "department": "ANCS",
+      "number": 204,
+      "title": "Masterpieces of Ancient Literature"
+    },
+    {
+      "course_id": "ANCS210",
+      "department": "ANCS",
+      "number": 210,
+      "title": "Classical Mythology"
+    },
+    {
+      "course_id": "ANCS220",
+      "department": "ANCS",
+      "number": 220,
+      "title": "Judaism in the Time of Jesus and Hillel"
+    },
+    {
+      "course_id": "ANCS301",
+      "department": "ANCS",
+      "number": 301,
+      "title": "Ancient Civilizations"
+    },
+    {
+      "course_id": "ANCS320",
+      "department": "ANCS",
+      "number": 320,
+      "title": "Women and Gender in the Classical World"
+    },
+    {
+      "course_id": "ANCS330",
+      "department": "ANCS",
+      "number": 330,
+      "title": "Ancient Science and Technology"
+    },
+    {
+      "course_id": "ANTH101",
+      "department": "ANTH",
+      "number": 101,
+      "title": "Introduction to Anthropology"
+    },
+    {
+      "course_id": "ANTH211",
+      "department": "ANTH",
+      "number": 211,
+      "title": "Cultural Anthropology"
+    },
+    {
+      "course_id": "ANTH212",
+      "department": "ANTH",
+      "number": 212,
+      "title": "The Ethnographer's World"
+    },
+    {
+      "course_id": "ANTH302",
+      "department": "ANTH",
+      "number": 302,
+      "title": "Human Evolution, Physical Anthropology, and Archaeology"
+    },
+    {
+      "course_id": "ANTH310",
+      "department": "ANTH",
+      "number": 310,
+      "title": "Ethnographic Film"
+    },
+    {
+      "course_id": "ANTH316",
+      "department": "ANTH",
+      "number": 316,
+      "title": "Anthropology of Religion"
+    },
+    {
+      "course_id": "ANTH326",
+      "department": "ANTH",
+      "number": 326,
+      "title": "American Indian Cultures"
+    },
+    {
+      "course_id": "ARBC202",
+      "department": "ARBC",
+      "number": 202,
+      "title": "Intermediate Arabic II"
+    },
+    {
+      "course_id": "ARBC301",
+      "department": "ARBC",
+      "number": 301,
+      "title": "Advanced Arabic I"
+    },
+    {
+      "course_id": "ARBC302",
+      "department": "ARBC",
+      "number": 302,
+      "title": "Advanced Arabic II"
+    },
+    {
+      "course_id": "ARTH101",
+      "department": "ARTH",
+      "number": 101,
+      "title": "Introduction to Art History"
+    },
+    {
+      "course_id": "ARTH102",
+      "department": "ARTH",
+      "number": 102,
+      "title": "Art of the Ancient World"
+    },
+    {
+      "course_id": "ARTH103",
+      "department": "ARTH",
+      "number": 103,
+      "title": "Art of the Medieval World"
+    },
+    {
+      "course_id": "ARTH104",
+      "department": "ARTH",
+      "number": 104,
+      "title": "Art of the Renaissance and Baroque Worlds"
+    },
+    {
+      "course_id": "ARTH105",
+      "department": "ARTH",
+      "number": 105,
+      "title": "Art of the Modern World"
+    },              
+    {
+        "course_id": "ARCH100",
+        "department": "ARCH",
+        "number": 100,
+        "title": "Introduction to Archaeology of the Ancient World"
+    },
+    {
+        "course_id": "ARCH120",
+        "department": "ARCH",
+        "number": 120,
+        "title": "World Archaeology"
+    },
+    {
+        "course_id": "ARCH200",
+        "department": "ARCH",
+        "number": 200,
+        "title": "Greek Archaeology and Art"
+    },
+    {
+        "course_id": "ARCH201",
+        "department": "ARCH",
+        "number": 201,
+        "title": "Roman Archaeology and Art"
+    },
+    {
+        "course_id": "ARCH220",
+        "department": "ARCH",
+        "number": 220,
+        "title": "Archaeology and Art of Ancient Egypt"
+    },
+    {
+        "course_id": "ARCH330",
+        "department": "ARCH",
+        "number": 330,
+        "title": "Archaeology of the Prehistoric Aegean"
+    },
+    {
+        "course_id": "ARCH340",
+        "department": "ARCH",
+        "number": 340,
+        "title": "Cities of the Past"
+    },
+    {
+        "course_id": "ART216",
+        "department": "ART",
+        "number": 216,
+        "title": "Studies in Visual Culture"
+    },
+    {
+        "course_id": "ART321",
+        "department": "ART",
+        "number": 321,
+        "title": "From the Enlightenment to the Birth of Modernism: 1750–1880"
+    },
+    {
+        "course_id": "CHIN202",
+        "department": "CHIN",
+        "number": 202,
+        "title": "Intermediate Chinese II"
+    },
+    {
+        "course_id": "CHIN301",
+        "department": "CHIN",
+        "number": 301,
+        "title": "Advanced Chinese I"
+    },
+    {
+        "course_id": "CHIN302",
+        "department": "CHIN",
+        "number": 302,
+        "title": "Advanced Chinese II"
+    },
+    {
+        "course_id": "CPLT203",
+        "department": "CPLT",
+        "number": 203,
+        "title": "Masterpieces of Ancient Literature"
+    },
+    {
+        "course_id": "DANC101",
+        "department": "DANC",
+        "number": 101,
+        "title": "Dance Appreciation"
+    },
+    {
+        "course_id": "DANC201",
+        "department": "DANC",
+        "number": 201,
+        "title": "Dance History I: Cultural and Classical Forms"
+    },
+    {
+        "course_id": "ECON382",
+        "department": "ECON",
+        "number": 382,
+        "title": "Asian Economic History"
+    },
+    {
+        "course_id": "ENGL191",
+        "department": "ENGL",
+        "number": 191,
+        "title": "The World of Language II"
+    },
+    {
+        "course_id": "FREN202",
+        "department": "FREN",
+        "number": 202,
+        "title": "Intermediate French II"
+    },
+    {
+        "course_id": "FREN301",
+        "department": "FREN",
+        "number": 301,
+        "title": "Advanced French I"
+    },
+    {
+        "course_id": "FREN302",
+        "department": "FREN",
+        "number": 302,
+        "title": "Advanced French II"
+    },
+    {
+        "course_id": "FREN310",
+        "department": "FREN",
+        "number": 310,
+        "title": "Interconnections: Language"
+    },
+    {
+        "course_id": "FREN320",
+        "department": "FREN",
+        "number": 320,
+        "title": "Interconnections: Trade, Technology, and Globalization"
+    },
+    {
+        "course_id": "FREN330",
+        "department": "FREN",
+        "number": 330,
+        "title": "Interconnections: Ideas, Literature, and the Arts"
+    },
+    {
+        "course_id": "FREN340",
+        "department": "FREN",
+        "number": 340,
+        "title": "Interconnections: Social and Historical Confluences"
+    },
+    {
+        "course_id": "FREN349",
+        "department": "FREN",
+        "number": 349,
+        "title": "Explorations in History and Society"
+    },
+    {
+        "course_id": "FYS104",
+        "department": "FYS",
+        "number": 104,
+        "title": "First Year Seminar (C)"
+    },
+    {
+        "course_id": "FYS106",
+        "department": "FYS",
+        "number": 106,
+        "title": "First Year Seminar in SS or C"
+    },
+    {
+        "course_id": "FYS107",
+        "department": "FYS",
+        "number": 107,
+        "title": "First Year Seminar (AH/C)"
+    },
+    {
+        "course_id": "GERM202",
+        "department": "GERM",
+        "number": 202,
+        "title": "Gateway to Advanced German Studies"
+    },
+    {
+        "course_id": "GERM301",
+        "department": "GERM",
+        "number": 301,
+        "title": "Advanced German Studies I"
+    },
+    {
+        "course_id": "GERM302",
+        "department": "GERM",
+        "number": 302,
+        "title": "Advanced German Studies II"
+    },
+    {
+        "course_id": "GERM311",
+        "department": "GERM",
+        "number": 311,
+        "title": "Introduction to German Literature and Culture I"
+    },
+    {
+        "course_id": "GERM312",
+        "department": "GERM",
+        "number": 312,
+        "title": "Introduction to German Literature and Culture II"
+    },
+    {
+        "course_id": "GES102",
+        "department": "GES",
+        "number": 102,
+        "title": "Human Geography"
+    },
+    {
+        "course_id": "GES105",
+        "department": "GES",
+        "number": 105,
+        "title": "World Regional Geography"
+    },
+    {
+        "course_id": "GES327",
+        "department": "GES",
+        "number": 327,
+        "title": "Cultural Ecology"
+    },
+    {
+        "course_id": "GES328",
+        "department": "GES",
+        "number": 328,
+        "title": "Geography of Latin America"
+    },
+    {
+        "course_id": "GES329",
+        "department": "GES",
+        "number": 329,
+        "title": "Geography of Africa"
+    },
+    {
+        "course_id": "GES330",
+        "department": "GES",
+        "number": 330,
+        "title": "Geography of Asia"
+    },
+    {
+        "course_id": "GES331",
+        "department": "GES",
+        "number": 331,
+        "title": "Geography of Europe"
+    },
+    {
+        "course_id": "GES332",
+        "department": "GES",
+        "number": 332,
+        "title": "Geography of the Middle East"
+    },
+    {
+        "course_id": "GES333",
+        "department": "GES",
+        "number": 333,
+        "title": "Geography of North America"
+    },
+    {
+        "course_id": "GES334",
+        "department": "GES",
+        "number": 334,
+        "title": "Geography of Oceania"
+    },
+    {
+        "course_id": "GES335",
+        "department": "GES",
+        "number": 335,
+        "title": "Geography of the Caribbean"
+    },
+    {
+        "course_id": "GES336",
+        "department": "GES",
+        "number": 336,
+        "title": "Geography of the Polar Regions"
+    },
+    {
+        "course_id": "GES337",
+        "department": "GES",
+        "number": 337,
+        "title": "Geography of the Pacific Islands"
+    },
+    {
+        "course_id": "GES338",
+        "department": "GES",
+        "number": 338,
+        "title": "Geography of the Arctic"
+    },
+    {
+        "course_id": "GES339",
+        "department": "GES",
+        "number": 339,
+        "title": "Geography of the Antarctic"
+    },
+    {
+        "course_id": "GREK350",
+        "department": "GREK",
+        "number": 350,
+        "title": "Septuagint"
+    },
+    {
+        "course_id": "GREK352",
+        "department": "GREK",
+        "number": 352,
+        "title": "Greek Tragedy and Comedy"
+    },
+    {
+        "course_id": "GREK361",
+        "department": "GREK",
+        "number": 361,
+        "title": "Greek Oratory"
+    },
+    {
+        "course_id": "GREK362",
+        "department": "GREK",
+        "number": 362,
+        "title": "Selections from Greek Historians"
+    },
+    {
+        "course_id": "GREK371",
+        "department": "GREK",
+        "number": 371,
+        "title": "Homer"
+    },
+    {
+        "course_id": "GREK372",
+        "department": "GREK",
+        "number": 372,
+        "title": "Plato"
+    },
+    {
+        "course_id": "GREK381",
+        "department": "GREK",
+        "number": 381,
+        "title": "History of Greek Literature I"
+    },
+    {
+        "course_id": "GREK382",
+        "department": "GREK",
+        "number": 382,
+        "title": "History of Greek Literature II"
+    },
+    {
+        "course_id": "GWST100",
+        "department": "GWST",
+        "number": 100,
+        "title": "Introduction to Gender and Women's Studies"
+    },
+    {
+        "course_id": "GWST210",
+        "department": "GWST",
+        "number": 210,
+        "title": "Introduction to Critical Sexuality Studies"
+    },
+    {
+        "course_id": "GWST255",
+        "department": "GWST",
+        "number": 255,
+        "title": "Intercultural Paris"
+    },
+    {
+        "course_id": "GWST315",
+        "department": "GWST",
+        "number": 315,
+        "title": "Modern Masculinities"
+    },
+    {
+        "course_id": "GWST320",
+        "department": "GWST",
+        "number": 320,
+        "title": "Transnational Feminist Film"
+    },
+    {
+        "course_id": "GWST322",
+        "department": "GWST",
+        "number": 322,
+        "title": "Gender, Race, and Media"
+    },
+    {
+        "course_id": "GWST327",
+        "department": "GWST",
+        "number": 327,
+        "title": "African American Women's History"
+    },
+    {
+        "course_id": "GWST330",
+        "department": "GWST",
+        "number": 330,
+        "title": "Women and Gender in the Classical World"
+    },
+    {
+        "course_id": "GWST340",
+        "department": "GWST",
+        "number": 340,
+        "title": "Global Perspectives on Gender and Women"
+    },
+    {
+        "course_id": "GWST342",
+        "department": "GWST",
+        "number": 342,
+        "title": "Gender in Modern South Asia"
+    },
+    {
+        "course_id": "GWST343",
+        "department": "GWST",
+        "number": 343,
+        "title": "Gender, Human Rights, and Political Violence in Latin America"
+    },
+    {
+        "course_id": "GWST366",
+        "department": "GWST",
+        "number": 366,
+        "title": "Doing It: Case Studies in the History of Western Sexuality"
+    },
+    {
+        "course_id": "GWST370",
+        "department": "GWST",
+        "number": 370,
+        "title": "Black Women in Cross-Cultural Perspectives"
+    },
+    {
+        "course_id": "GWST374",
+        "department": "GWST",
+        "number": 374,
+        "title": "European Women's History: 1200–1750"
+    },
+    {
+        "course_id": "GWST375",
+        "department": "GWST",
+        "number": 375,
+        "title": "European Women's History: 1750–1914"
+    },
+    {
+        "course_id": "GWST376",
+        "department": "GWST",
+        "number": 376,
+        "title": "European Women's History: 1914 to the Present"
+    },
+    {
+        "course_id": "GWST380",
+        "department": "GWST",
+        "number": 380,
+        "title": "Women and Gender in Asia"
+    },
+    {
+        "course_id": "HAPP403",
+        "department": "HAPP",
+        "number": 403,
+        "title": "Introduction to International Field Research"
+    },
+    {
+        "course_id": "HEBR202",
+        "department": "HEBR",
+        "number": 202,
+        "title": "Intermediate Modern Hebrew II"
+    },
+    {
+        "course_id": "HEBR301",
+        "department": "HEBR",
+        "number": 301,
+        "title": "Advanced Hebrew I"
+    },
+    {
+        "course_id": "HEBR302",
+        "department": "HEBR",
+        "number": 302,
+        "title": "Advanced Hebrew II"
+    },
+    {
+        "course_id": "JPNS202",
+        "department": "JPNS",
+        "number": 202,
+        "title": "Intermediate Japanese II"
+    },
+    {
+        "course_id": "KORE202",
+        "department": "KORE",
+        "number": 202,
+        "title": "Intermediate Korean II"
+    },
+    {
+        "course_id": "KORE310",
+        "department": "KORE",
+        "number": 310,
+        "title": "Korean Language in Social and Cultural Context"
+    },
+    {
+        "course_id": "SPAN307",
+        "department": "SPAN",
+        "number": 307,
+        "title": "The Cultures of Spain"
+    },
+    {
+        "course_id": "SPAN308",
+        "department": "SPAN",
+        "number": 308,
+        "title": "The Cultures of Latin America"
+    }
+
+  ]
+}
