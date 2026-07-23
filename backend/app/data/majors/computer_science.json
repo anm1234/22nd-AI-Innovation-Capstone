@@ -1,0 +1,111 @@
+{
+  "major": "Computer Science",
+
+  "core_courses": [
+    {
+      "code": "CMSC 201",
+      "title": "Computer Science I",
+      "credits": 4,
+      "minimum_grade": "B",
+      "prerequisites": []
+    },
+    {
+      "code": "CMSC 202",
+      "title": "Computer Science II",
+      "credits": 4,
+      "minimum_grade": "B",
+      "prerequisites": [
+        "CMSC 201"
+      ]
+    },
+    {
+      "code": "CMSC 203",
+      "title": "Discrete Structures",
+      "credits": 3,
+      "minimum_grade": "C",
+      "prerequisites": [
+        "CMSC 201"
+      ]
+    },
+    {
+      "code": "CMSC 304",
+      "title": "Ethical Issues in Information Technology",
+      "credits": 3,
+      "minimum_grade": "C",
+      "prerequisites": []
+    },
+    {
+      "code": "CMSC 313",
+      "title": "Computer Organization",
+      "credits": 3,
+      "minimum_grade": "C",
+      "prerequisites": [
+        "CMSC 202"
+      ]
+    },
+    {
+      "code": "CMSC 331",
+      "title": "Programming Languages",
+      "credits": 3,
+      "minimum_grade": "C",
+      "prerequisites": [
+        "CMSC 202"
+      ]
+    },
+    {
+      "code": "CMSC 341",
+      "title": "Data Structures",
+      "credits": 3,
+      "minimum_grade": "C",
+      "prerequisites": [
+        "CMSC 202"
+      ]
+    },
+    {
+      "code": "CMSC 411",
+      "title": "Computer Architecture",
+      "credits": 3,
+      "minimum_grade": "C",
+      "prerequisites": [
+        "CMSC 313",
+        "CMSC 341"
+      ]
+    },
+    {
+      "code": "CMSC 421",
+      "title": "Operating Systems",
+      "credits": 3,
+      "minimum_grade": "C",
+      "prerequisites": [
+        "CMSC 341"
+      ]
+    },
+    {
+      "code": "CMSC 441",
+      "title": "Algorithms",
+      "credits": 3,
+      "minimum_grade": "C",
+      "prerequisites": [
+        "CMSC 341"
+      ]
+    }
+  ],
+
+  "math_courses": [
+    "MATH 151",
+    "MATH 152",
+    "MATH 221"
+  ],
+
+  "statistics_courses": [
+    "STAT 355"
+  ],
+
+  "science_requirement": {
+    "required": 1
+  },
+
+  "cs_electives_required": 2,
+
+  "technical_electives_required": 3
+}
